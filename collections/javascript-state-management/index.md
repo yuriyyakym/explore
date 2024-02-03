@@ -10,6 +10,7 @@ items:
  - storeon/storeon
  - artalar/reatom
  - persevie/statemanjs
+ - yuriyyakym/awai
 display_name: JavaScript State Management Tools
 created_by: lestad
 ---
